@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">MyCityApp</string>
+
+    <!-- Objek Wisata Cibulan -->
+    <string name="title_cibulan">Objek Wisata Cibulan</string>
+    <string name="desc_cibulan">Tempat ini adalah tujuan wisata yang unik dengan tujuh sumur yang berada di kaki Gunung Ciremai. Sumur-sumur ini dipercaya memiliki ikan-ikan keramat yang merupakan jelmaan prajurit Prabu Siliwangi. Tempat ini menawarkan pengalaman spiritual dan sejarah yang mendalam.</string>
+    <!-- Telaga Biru Cicerem -->
+    <string name="title_cicerem">Telaga Biru Cicerem</string>
+    <string name="desc_cicerem">Telaga ini adalah permata tersembunyi dengan air jernih berwarna biru dan kedalaman 4-5 meter. Telaga ini juga dihiasi dengan berbagai macam ikan yang cukup bervariasi, menjadikannya tempat yang sempurna untuk snorkeling dan piknik keluarga.</string>
+    <!-- Curug Putri Palutungan -->
+    <string name="title_palutungan">Curug Putri Palutungan</string>
+    <string name="desc_palutungan">Air terjun ini terletak di jalur pendakian Gunung Ciremai dan memiliki ketinggian 30 meter. Bebatuan bertingkat dan air terjun yang mengalir deras menciptakan pemandangan yang sangat indah dan menenangkan.</string>
+    <!-- Kebun Raya Kuningan -->
+    <string name="title_kebunraya">Kebun Raya Kuningan</string>
+    <string name="desc_kebunraya">Kebun ini terletak di sekitaran sisi utara Gunung Ciremai dan menawarkan berbagai jenis flora dan fauna. Tempat ini adalah pilihan yang sempurna untuk wisata alam dan edukasi.</string>
+    <!-- Sukageuri View -->
+    <string name="title_sukageuri">Sukageuri View</string>
+    <string name="desc_sukageuri">Tempat ini menawarkan pemandangan alam Kuningan yang menyejukkan mata dari bukit Sukageuri. Dengan banyak spot foto romantis, tempat ini adalah destinasi yang sempurna untuk pasangan atau fotografer.</string>
+    <!-- Curug Landung -->
+    <string name="title_landung">Curug Landung</string>
+    <string name="desc_landung">Berdekatan dengan Curug Putri, air terjun ini memiliki aliran sungai yang sangat jernih dan gazebo untuk beristirahat. Tempat ini adalah pilihan yang bagus untuk hari yang santai di alam.</string>
+    <!-- Sangkan Resort Aqua Park -->
+    <string name="title_sangkan">Sangkan Resort Aqua Park</string>
+    <string name="desc_sangkan">Tempat ini menawarkan berbagai wahana permainan air dengan harga tiket masuk Rp55.000. Dengan berbagai fasilitas dan aktivitas, tempat ini adalah pilihan yang sempurna untuk hari yang menyenangkan bagi seluruh keluarga.</string>
+    <!-- Taman Nasional Gunung Ciremai -->
+    <string name="title_ciremai">Taman Nasional Gunung Ciremai</string>
+    <string name="desc_ciremai">Tempat ini adalah ikon wisata di Kuningan dan menawarkan pendakian di Gunung Ciremai dengan tiket masuk Rp50.000. Dengan pemandangan alam yang menakjubkan dan tantangan fisik, tempat ini adalah pilihan yang sempurna untuk petualang dan pecinta alam.</string>
+    <!-- Telaga Remis -->
+    <string name="title_remis">Telaga Remis</string>
+    <string name="desc_remis">Telaga ini berada di Desa Kaduela, lereng Gunung Ciremai dan menawarkan pemandangan air hijau yang terpantul dari hutan hijau di sekitarnya. Tempat ini adalah pilihan yang sempurna untuk hari yang santai di alam.</string>
+    <!-- Wisata Bukit Panembongan -->
+    <string name="title_panembongan">Wisata Bukit Panembongan</string>
+    <string name="desc_panembongan">Tempat ini menawarkan Gardu Pandang unik yang berfungsi untuk melihat keindahan alam Kabupaten Kuningan leluasa. Dengan pemandangan yang menakjubkan, tempat ini adalah destinasi yang sempurna untuk fotografi dan piknik.</string>
+    <!-- Woodland Kuningan -->
+    <string name="title_woodland">Woodland Kuningan</string>
+    <string name="desc_woodland">Tempat ini berlokasi di tengah hutan pinus yang sudah ditata sedemikian rupa dan menawarkan fasilitas underwater photo. Dengan berbagai aktivitas dan pemandangan alam yang menakjubkan, tempat ini adalah pilihan yang sempurna untuk hari yang menyenangkan di alam.</string>
+    <!-- Bumi Pelangi Jalaksana -->
+    <string name="title_jalaksana">Bumi Pelangi Jalaksana</string>
+    <string name="desc_jalaksana">Tempat ini terdiri dari beberapa kolam yang berpetak-petak dan setiap kolam saling berhubungan dengan hiasan warna-warna yang sangat cantik. Tempat ini menawarkan pengalaman berenang yang unik dan pemandangan yang indah, menjadikannya pilihan yang sempurna untuk hari yang santai dan menyenangkan.</string>
+
+    <string name="judul_kedai_artha">Kedai Artha</string>
+    <string name="judul_domo_coffee_and_space">Domo Coffee and Space</string>
+    <string name="judul_kopi_pono">Kopi Pono</string>
+    <string name="judul_otaku_coffee_and_roastery">Otaku Coffee &amp; Roastery</string>
+    <string name="judul_onedis_coffee">Onedis Coffee</string>
+    <string name="judul_sisijalankopi">Sisijalankopi</string>
+    <string name="judul_mokopi_co_kuningan">Mokopi.Co Kuningan</string>
+    <string name="judul_evolution_s_coffee">Evolution\'s Coffee</string>
+    <string name="judul_eternite_space">Eternite Space</string>
+    <string name="judul_kopi_iu">Kopi.iu</string>
+    <string name="alamat_kedai_artha">
+        Jl. Pedurenan Sawah No.34, RT.10/RW.4, Kuningan, Jakarta Selatan
+    </string>
+    <string name="alamat_domo_coffee_and_space">
+        Jl. HR Rasuna Said No.2, Kuningan, Jakarta Selatan
+    </string>
+    <string name="alamat_kopi_pono">
+        Jl. Prof. DR. Satrio No.39, Kuningan, Jakarta Selatan
+    </string>
+    <string name="alamat_otaku_coffee_and_roastery">
+        Jl. Karet Pedurenan No.36, Kuningan, Jakarta Selatan
+    </string>
+    <string name="alamat_onedis_coffee">
+        Jl. HR Rasuna Said No.18, Kuningan, Jakarta Selatan
+    </string>
+    <string name="alamat_sisijalankopi">
+        Jl. HR Rasuna Said No.12, Kuningan, Jakarta Selatan
+    </string>
+    <string name="alamat_mokopi_co_kuningan">
+        Jl. Prof. DR. Satrio No.16, Kuningan, Jakarta Selatan
+    </string>
+    <string name="alamat_evolution_s_coffee">
+        Jl. Karet Pedurenan No.38, Kuningan, Jakarta Selatan
+    </string>
+    <string name="alamat_eternite_space">
+        Jl. Prof. DR. Satrio No.20, Kuningan, Jakarta Selatan
+    </string>
+    <string name="alamat_kopi_iu">
+        Jl. HR Rasuna Said No.22, Kuningan, Jakarta Selatan
+    </string>
+    <string name="instagram_kedai_artha">\@kedai_artha</string>
+    <string name="instagram_domo_coffee_and_space">\@domo_coffee_and_space</string>
+    <string name="instagram_kopi_pono">\@kopi_pono</string>
+    <string name="instagram_otaku_coffee_and_roastery">\@otaku_coffee_and_roastery</string>
+    <string name="instagram_onedis_coffee">\@onedis_coffee</string>
+    <string name="instagram_sisijalankopi">\@sisijalankopi</string>
+    <string name="instagram_mokopi_co_kuningan">\@mokopi_co_kuningan</string>
+    <string name="instagram_evolution_s_coffee">\@evolution_s_coffee</string>
+    <string name="instagram_eternite_space">\@eternite_space</string>
+    <string name="instagram_kopi_iu">\@kopi_iu</string>
+    <string name="jam_operasional_kedai_artha">
+        Senin - Kamis: 10.00 - 21.00 WIB
+        Jumat: 13.00 - 21.00 WIB
+    </string>
+    <string name="jam_operasional_domo_coffee_and_space">
+        Senin - Minggu: 08.00 - 22.00 WIB
+    </string>
+    <string name="jam_operasional_kopi_pono">
+        Senin - Minggu: 08.00 - 22.00 WIB
+    </string>
+    <string name="jam_operasional_otaku_coffee_and_roastery">
+        Senin - Minggu: 09.00 - 21.00 WIB
+    </string>
+    <string name="jam_operasional_onedis_coffee">
+        Senin - Minggu: 08.00 - 22.00 WIB
+    </string>
+    <string name="jam_operasional_sisijalankopi">
+        Senin - Minggu: 08.00 - 22.00 WIB
+    </string>
+    <string name="jam_operasional_mokopi_co_kuningan">
+        Senin - Minggu: 09.00 - 21.00 WIB
+    </string>
+    <string name="jam_operasional_evolution_s_coffee">
+        Senin - Minggu: 08.00 - 22.00 WIB
+    </string>
+    <string name="jam_operasional_eternite_space">
+        Senin - Minggu: 09.00 - 21.00 WIB
+    </string>
+    <string name="jam_operasional_kopi_iu">
+        Senin - Minggu: 08.00 - 22.00 WIB
+    </string>
+
+    <string name="restoran1_nama">Rumah Makan Laksamana</string>
+    <string name="restoran1_deskripsi">Tempat makan dengan pilihan meja makan dan lesehan. Menyajikan menu lezat seperti gurame bakar, gurame asam manis, ayam panggang, dan ayam goreng. Harganya cukup terjangkau dan tempatnya nyaman dengan kolam ikan kecil.</string>
+    <string name="restoran2_nama">Rumah Makan Cipondok</string>
+    <string name="restoran2_deskripsi">Tempat makan yang cocok untuk bersantap bersama keluarga. Menyajikan menu makanan khas Sunda yang lezat seperti ikan gurame, ayam goreng, karedok leunca, dan lain-lain. Tempatnya luas dan nyaman dengan view sawah.</string>
+    <string name="restoran3_nama">Resto Grage Lanai</string>
+    <string name="restoran3_deskripsi">Restoran paling favorit dan banyak direkomendasikan di Kuningan. Menyajikan menu makanan yang lengkap, mulai dari ayam, ikan, karedok, dan lain-lain. Menu yang wajib dicoba adalah nasi liwet dengan ayam bakar kampung. Tempatnya nyaman dan menawarkan pemandangan alam yang sejuk.</string>
+    <string name="restoran4_nama">Rumah Makan Ayam Goreng Mang Bewok</string>
+    <string name="restoran4_deskripsi">Tempat makan yang menyediakan olahan ayam kampung yang empuk dan gurih, lengkap dengan sambal dan lalapan. Menu yang paling populer adalah ayam goreng. Tempatnya nyaman dan menawarkan pemandangan Gunung Ciremai.</string>
+    <string name="restoran5_nama">Dapur Bebek</string>
+    <string name="restoran5_deskripsi">Tempat makan yang menyediakan olahan daging bebek yang lembut dan lezat. Menu yang paling favorit adalah bebek asap. Sambal setan yang disajikan juga semakin menambah nikmat. Tempatnya luas dan nyaman dengan mainan-mainan untuk anak-anak.</string>
+    <string name="restoran6_nama">Bubulak Food &amp; View</string>
+    <string name="restoran6_deskripsi">Tempat makan yang cukup populer, bahkan di kalangan masyarakat luar Kuningan. Menyajikan beragam menu dengan harga yang bervariasi. Menu yang wajib dicoba adalah olahan ayam kampung. Tempatnya bagus dan menawarkan pemandangan indah dari kota Kuningan.</string>
+    <string name="restoran7_nama">Rumah Makan Bang Jack</string>
+    <string name="restoran7_deskripsi">Tempat makan yang nyaman dan juga menyediakan fasilitas yang lengkap, mulai dari tempat parkir, musola, hingga taman mini untuk anak-anak bermain. Menyajikan berbagai menu, mulai dari olahan daging sapi, ayam, seafood, ikan, dan sayur. Menu yang favorit adalah sop jagung daging kepiting.</string>
+    <string name="restoran8_nama">Lembah Ciremai Restaurant</string>
+    <string name="restoran8_deskripsi">Tempat makan yang menyediakan tempat yang nyaman dan juga pemandangan indah dari Gunung Ciremai. Menyajikan kuliner Indonesia khususnya Sunda. Menu yang paling banyak dipesan pengunjung adalah ayam bakar kampung.</string>
+    <string name="restoran9_nama">Santana Resto</string>
+    <string name="restoran9_deskripsi">Tempat makan dengan harga terjangkau yang bisa menjadi referensi. Tempatnya cukup luas dengan suasana sejuk daerah pegunungan. Menyajikan beragam menu seperti nasi goreng, olahan seafood, paket nasi ayam, dan olahan sayur. Tempatnya juga cocok untuk tempat nongkrong bersama teman.</string>
+    <string name="restoran10_nama">Rumah Makan Kita</string>
+    <string name="restoran10_deskripsi">Tempat makan yang berada di pusat kota yang menyediakan tempat makan yang luas dan nyaman. Menyajikan berbagai menu lezat seperti ayam kampung dengan bumbu garang asam dan empal gepuk. Tempatnya juga menyediakan berbagai oleh-oleh khas Kuningan.</string>
+
+    <string name="opak_bakar_title">Opak Bakar</string>
+    <string name="opak_bakar_desc">Opak Bakar adalah kuliner khas Kuningan yang terbuat dari beras ketan dan kelapa. Bahan-bahan tersebut dipanggang hingga menciptakan rasa yang gurih dan lezat. Cocok untuk dijadikan oleh-oleh karena tahan lama dan mudah dibawa pulang.</string>
+    <string name="kwecang_title">Kwecang</string>
+    <string name="kwecang_desc">Kwecang adalah kue tradisional Kuningan yang terbuat dari ketan putih, kelapa parut, gula pasir, dan garam. Bahan-bahan tersebut digoreng hingga renyah dan memiliki rasa manis yang khas. Kwecang biasanya disajikan dalam acara-acara adat atau sebagai oleh-oleh.</string>
+    <string name="lepet_title">Lepet</string>
+    <string name="lepet_desc">Lepet adalah makanan khas Kuningan yang terbuat dari ketan yang dibungkus daun pisang dan dikukus. Biasanya disajikan dengan kelapa parut, gula merah, pisang, atau durian. Lepet memiliki tekstur yang kenyal dan rasa yang manis, cocok untuk dijadikan oleh-oleh atau camilan sehari-hari.</string>
+    <string name="tahu_lamping_title">Tahu Lamping</string>
+    <string name="tahu_lamping_desc">Tahu Lamping adalah tahu yang diisi dengan campuran daging ayam, bawang putih, bawang merah, telur, daun bawang, dan rempah-rempah, kemudian digoreng hingga empuk dan gurih. Tahu Lamping memiliki rasa yang khas dan berbeda dengan tahu pada umumnya, menjadikannya oleh-oleh yang unik dari Kuningan.</string>
+    <string name="jeniper_title">Jeniper</string>
+    <string name="jeniper_desc">Jeniper adalah minuman khas Kuningan yang terbuat dari jeruk nipis peras yang dicampur dengan sedikit gula. Minuman ini cocok disajikan dengan es, menjadikannya minuman yang segar dan menyegarkan. Jeniper bisa dijadikan oleh-oleh dalam bentuk sirup yang siap saji.</string>
+    <string name="kopi_luwak_linggarjati_title">Kopi Luwak Linggarjati</string>
+    <string name="kopi_luwak_linggarjati_desc">Kopi Luwak Linggarjati adalah kopi khas Kuningan yang memiliki cita rasa yang berbeda dengan kopi pada umumnya. Kopi ini terbuat dari biji kopi yang dimakan dan dikeluarkan oleh luwak, menjadikannya memiliki rasa yang khas dan unik. Kopi Luwak Linggarjati bisa dijadikan oleh-oleh bagi pecinta kopi.</string>
+    <string name="batik_kuningan_title">Batik Kuningan</string>
+    <string name="batik_kuningan_desc">Batik Kuningan adalah kain batik yang berasal dari daerah Kuningan. Batik ini memiliki corak atau motif yang khas dan unik yang terinspirasi oleh alam sekitar dan kearifan lokal. Batik Kuningan bisa dijadikan oleh-oleh berupa kain atau pakaian jadi yang elegan dan berkelas.</string>
+    <string name="sirup_tjampolay_title">Sirup Tjampolay</string>
+    <string name="sirup_tjampolay_desc">Sirup Tjampolay adalah minuman khas Kuningan yang terbuat dari buah kolang-kaling, daun pandan, gula merah, dan air jeruk nipis. Minuman ini memiliki rasa yang manis, lezat, dan segar. Sirup Tjampolay bisa dijadikan oleh-oleh dalam bentuk sirup yang siap saji.</string>
+
+    <string name="coffee_shop">Coffee Shop</string>
+    <string name="makanan_khas">Makanan Khas</string>
+    <string name="restoran">Restoran</string>
+    <string name="destinasi_wisata">Destinasi Wisata</string>
+
+    <string name="category_section">Kategori</string>
+    <string name="recommendation_section">Rekomendasi</string>
+    <string name="detail_section">Detail</string>
+    <string name="back_button">back</string>
+</resources>
